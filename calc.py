@@ -6,9 +6,9 @@ def add(x,y):
 
             pass 
 
-        def multiply(x,y): 
+        def multiply(x,y,z): 
 
-                return x*y
+                return x*y*z
 
             def divide(x,y): 
 
@@ -16,4 +16,7 @@ def add(x,y):
 
                 def square(x,y): 
 
-                        pass 
+                        pass
+
+
+##Comments111
